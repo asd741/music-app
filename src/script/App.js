@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Index from '../components/index.jsx';
+import Index from '../components/center.jsx';
 class App extends Component {
     constructor() {
         super();
